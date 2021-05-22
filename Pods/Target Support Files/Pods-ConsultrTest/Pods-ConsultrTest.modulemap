@@ -1,0 +1,6 @@
+framework module Pods_ConsultrTest {
+  umbrella header "Pods-ConsultrTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
